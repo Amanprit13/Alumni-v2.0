@@ -1,0 +1,5 @@
+Open Command Prompt 1: Run mongod --dbpath "C:\data\db"
+
+Open Command Prompt 2: Navigate to your backend folder, activate venv, and run python app.py
+
+That's it for the essentials. You only open mongosh or Compass if you specifically need to look at or manipulate data directly outside of your backend application.
