@@ -64,7 +64,7 @@ Alumni_Project
 
 1. Clone the repository
    ```bash
-   git clone httpsgithub.comsukhvindarsinghAlumni-Connect.git
+   git clone ""
    cd Alumni-Connect
    ```
 
