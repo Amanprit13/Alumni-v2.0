@@ -116,11 +116,9 @@ Alumni_Project
 
 ## 🧑‍💻 Author
 
-Sukhvindarsingh Gedu  
+Amanpritkaur Gedu  
 📍 Pune, India  
-📧 [sukhvindarsingh113@gmail.com](mailtosukhvindarsingh113@gmail.com)  
-🔗 [LinkedIn](httpslinkedin.cominsukhvindarsingh-gedu-238aa11a0)  
-🐙 [GitHub](httpsgithub.comsukhvindarsingh)
+
 
 ---
 
